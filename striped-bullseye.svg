@@ -27,15 +27,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.71507354"
-     inkscape:cx="833.48071"
-     inkscape:cy="605.53212"
-     inkscape:window-width="1718"
-     inkscape:window-height="1360"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:zoom="1.0112667"
+     inkscape:cx="276.88047"
+     inkscape:cy="310.00724"
+     inkscape:window-width="3440"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4"
      inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        id="grid1"
@@ -327,28 +327,5 @@
   <g
      inkscape:groupmode="layer"
      id="layer13"
-     inkscape:label="Layer 11">
-    <text
-       xml:space="preserve"
-       style="font-size:8.46667px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:2.82712;display:inline;fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="136.87288"
-       y="111.31496"
-       id="text10-0-6-8"><tspan
-         x="136.87288"
-         y="111.31496"
-         id="tspan2"><tspan
-           dx="0 5.1676455"
-           id="tspan1">91</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11.2889px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       x="133.09035"
-       y="111.98578"
-       id="text10-0-6-3"><tspan
-         sodipodi:role="line"
-         id="tspan10-97-0-8"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:11.2889px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
-         x="133.09035"
-         y="111.98578" /></text>
-  </g>
+     inkscape:label="Layer 11" />
 </svg>
